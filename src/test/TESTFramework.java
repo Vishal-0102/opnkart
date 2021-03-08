@@ -14,6 +14,7 @@ public class TESTFramework extends BaseTest
 	{
 		FrameworkPage f=new FrameworkPage(driver);
 		f.submitdetails();
+		//Hi
 	}
 	
 
